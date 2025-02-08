@@ -3,4 +3,4 @@
 	url = https://github.com/nlohmann/json.git
 [submodule "modules/td"]
 	path = modules/td
-	url = https://github.com/tdlib/td.git
+	url = https://github.com/telecran-telecrit/td2.git
